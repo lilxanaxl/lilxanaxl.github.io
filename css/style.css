@@ -334,7 +334,7 @@ work section
 contact section
 ========================================================================== */
 #contact {
-  background: #3B3B3B  url(/images/portfolio-img5.jpg) no-repeat center center;
+  background: #3B3B3B  url() no-repeat center center;
 
   background-size: cover;
   color: #ffffff;
